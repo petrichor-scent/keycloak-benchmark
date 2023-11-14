@@ -1,0 +1,195 @@
+ASSERTION	AAECAAMBAAAAAAAAAAAA
+ASSERTION	AAEDAAEDAQAAAAAAAMByQA==
+RUN	keycloak.scenario.authentication.AuthorizationCode	authorizationcode	1699599976856	 	3.4.2
+USER	Authentication - Authorization Code Username/Password	START	1699599981750
+REQUEST		Browser to Log In Endpoint	1699599981765	1699599981780	OK	 
+REQUEST		Browser posts correct credentials	1699599981792	1699599981810	OK	 
+REQUEST		Exchange Code	1699599981812	1699599981815	OK	 
+REQUEST		Browser logout	1699599981830	1699599981832	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699599981833
+USER	Authentication - Authorization Code Username/Password	START	1699599982745
+REQUEST		Browser to Log In Endpoint	1699599982746	1699599982768	OK	 
+REQUEST		Browser posts correct credentials	1699599982769	1699599982787	OK	 
+REQUEST		Exchange Code	1699599982788	1699599982791	OK	 
+REQUEST		Browser logout	1699599982792	1699599982794	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699599982794
+USER	Authentication - Authorization Code Username/Password	START	1699599983745
+REQUEST		Browser to Log In Endpoint	1699599983746	1699599983765	OK	 
+REQUEST		Browser posts correct credentials	1699599983766	1699599983784	OK	 
+REQUEST		Exchange Code	1699599983785	1699599983789	OK	 
+REQUEST		Browser logout	1699599983790	1699599983792	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699599983792
+USER	Authentication - Authorization Code Username/Password	START	1699599984745
+REQUEST		Browser to Log In Endpoint	1699599984746	1699599984763	OK	 
+REQUEST		Browser posts correct credentials	1699599984764	1699599984782	OK	 
+REQUEST		Exchange Code	1699599984782	1699599984786	OK	 
+REQUEST		Browser logout	1699599984787	1699599984789	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699599984789
+USER	Authentication - Authorization Code Username/Password	START	1699599985745
+REQUEST		Browser to Log In Endpoint	1699599985746	1699599985768	OK	 
+REQUEST		Browser posts correct credentials	1699599985770	1699599985795	OK	 
+REQUEST		Exchange Code	1699599985795	1699599985799	OK	 
+REQUEST		Browser logout	1699599985799	1699599985801	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699599985802
+USER	Authentication - Authorization Code Username/Password	START	1699599986744
+REQUEST		Browser to Log In Endpoint	1699599986745	1699599986755	OK	 
+REQUEST		Browser posts correct credentials	1699599986756	1699599986773	OK	 
+REQUEST		Exchange Code	1699599986774	1699599986777	OK	 
+REQUEST		Browser logout	1699599986778	1699599986779	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699599986780
+USER	Authentication - Authorization Code Username/Password	START	1699599987745
+REQUEST		Browser to Log In Endpoint	1699599987747	1699599987764	OK	 
+REQUEST		Browser posts correct credentials	1699599987766	1699599987788	OK	 
+REQUEST		Exchange Code	1699599987789	1699599987792	OK	 
+REQUEST		Browser logout	1699599987793	1699599987794	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699599987794
+USER	Authentication - Authorization Code Username/Password	START	1699599988745
+REQUEST		Browser to Log In Endpoint	1699599988746	1699599988762	OK	 
+REQUEST		Browser posts correct credentials	1699599988763	1699599988793	OK	 
+REQUEST		Exchange Code	1699599988794	1699599988797	OK	 
+REQUEST		Browser logout	1699599988799	1699599988801	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699599988802
+USER	Authentication - Authorization Code Username/Password	START	1699599989745
+REQUEST		Browser to Log In Endpoint	1699599989746	1699599989762	OK	 
+REQUEST		Browser posts correct credentials	1699599989762	1699599989785	OK	 
+REQUEST		Exchange Code	1699599989785	1699599989788	OK	 
+REQUEST		Browser logout	1699599989789	1699599989791	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699599989791
+USER	Authentication - Authorization Code Username/Password	START	1699599990745
+REQUEST		Browser to Log In Endpoint	1699599990746	1699599990759	OK	 
+REQUEST		Browser posts correct credentials	1699599990761	1699599990785	OK	 
+REQUEST		Exchange Code	1699599990785	1699599990789	OK	 
+REQUEST		Browser logout	1699599990789	1699599990791	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699599990792
+USER	Authentication - Authorization Code Username/Password	START	1699599991745
+REQUEST		Browser to Log In Endpoint	1699599991746	1699599991768	OK	 
+REQUEST		Browser posts correct credentials	1699599991770	1699599991792	OK	 
+REQUEST		Exchange Code	1699599991793	1699599991797	OK	 
+REQUEST		Browser logout	1699599991798	1699599991799	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699599991800
+USER	Authentication - Authorization Code Username/Password	START	1699599992745
+REQUEST		Browser to Log In Endpoint	1699599992746	1699599992766	OK	 
+REQUEST		Browser posts correct credentials	1699599992768	1699599992787	OK	 
+REQUEST		Exchange Code	1699599992788	1699599992791	OK	 
+REQUEST		Browser logout	1699599992792	1699599992793	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699599992794
+USER	Authentication - Authorization Code Username/Password	START	1699599993745
+REQUEST		Browser to Log In Endpoint	1699599993745	1699599993757	OK	 
+REQUEST		Browser posts correct credentials	1699599993758	1699599993778	OK	 
+REQUEST		Exchange Code	1699599993779	1699599993782	OK	 
+REQUEST		Browser logout	1699599993783	1699599993785	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699599993786
+USER	Authentication - Authorization Code Username/Password	START	1699599994745
+REQUEST		Browser to Log In Endpoint	1699599994746	1699599994760	OK	 
+REQUEST		Browser posts correct credentials	1699599994761	1699599994783	OK	 
+REQUEST		Exchange Code	1699599994783	1699599994787	OK	 
+REQUEST		Browser logout	1699599994788	1699599994789	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699599994790
+USER	Authentication - Authorization Code Username/Password	START	1699599995745
+REQUEST		Browser to Log In Endpoint	1699599995746	1699599995766	OK	 
+REQUEST		Browser posts correct credentials	1699599995768	1699599995787	OK	 
+REQUEST		Exchange Code	1699599995788	1699599995791	OK	 
+REQUEST		Browser logout	1699599995792	1699599995793	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699599995794
+USER	Authentication - Authorization Code Username/Password	START	1699599996745
+REQUEST		Browser to Log In Endpoint	1699599996746	1699599996759	OK	 
+REQUEST		Browser posts correct credentials	1699599996760	1699599996784	OK	 
+REQUEST		Exchange Code	1699599996785	1699599996788	OK	 
+REQUEST		Browser logout	1699599996789	1699599996790	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699599996791
+USER	Authentication - Authorization Code Username/Password	START	1699599997744
+REQUEST		Browser to Log In Endpoint	1699599997745	1699599997767	OK	 
+REQUEST		Browser posts correct credentials	1699599997770	1699599997794	OK	 
+REQUEST		Exchange Code	1699599997795	1699599997798	OK	 
+REQUEST		Browser logout	1699599997798	1699599997800	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699599997800
+USER	Authentication - Authorization Code Username/Password	START	1699599998744
+REQUEST		Browser to Log In Endpoint	1699599998746	1699599998769	OK	 
+REQUEST		Browser posts correct credentials	1699599998770	1699599998791	OK	 
+REQUEST		Exchange Code	1699599998792	1699599998795	OK	 
+REQUEST		Browser logout	1699599998796	1699599998797	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699599998797
+USER	Authentication - Authorization Code Username/Password	START	1699599999745
+REQUEST		Browser to Log In Endpoint	1699599999746	1699599999766	OK	 
+REQUEST		Browser posts correct credentials	1699599999768	1699599999807	OK	 
+REQUEST		Exchange Code	1699599999808	1699599999811	OK	 
+REQUEST		Browser logout	1699599999812	1699599999813	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699599999814
+USER	Authentication - Authorization Code Username/Password	START	1699600000745
+REQUEST		Browser to Log In Endpoint	1699600000746	1699600000766	OK	 
+REQUEST		Browser posts correct credentials	1699600000767	1699600000790	OK	 
+REQUEST		Exchange Code	1699600000790	1699600000793	OK	 
+REQUEST		Browser logout	1699600000794	1699600000796	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699600000796
+USER	Authentication - Authorization Code Username/Password	START	1699600001744
+REQUEST		Browser to Log In Endpoint	1699600001745	1699600001761	OK	 
+REQUEST		Browser posts correct credentials	1699600001763	1699600001784	OK	 
+REQUEST		Exchange Code	1699600001784	1699600001788	OK	 
+REQUEST		Browser logout	1699600001788	1699600001790	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699600001790
+USER	Authentication - Authorization Code Username/Password	START	1699600002744
+REQUEST		Browser to Log In Endpoint	1699600002746	1699600002759	OK	 
+REQUEST		Browser posts correct credentials	1699600002760	1699600002781	OK	 
+REQUEST		Exchange Code	1699600002782	1699600002785	OK	 
+REQUEST		Browser logout	1699600002785	1699600002787	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699600002787
+USER	Authentication - Authorization Code Username/Password	START	1699600003745
+REQUEST		Browser to Log In Endpoint	1699600003746	1699600003766	OK	 
+REQUEST		Browser posts correct credentials	1699600003767	1699600003788	OK	 
+REQUEST		Exchange Code	1699600003789	1699600003792	OK	 
+REQUEST		Browser logout	1699600003792	1699600003794	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699600003794
+USER	Authentication - Authorization Code Username/Password	START	1699600004744
+REQUEST		Browser to Log In Endpoint	1699600004745	1699600004763	OK	 
+REQUEST		Browser posts correct credentials	1699600004765	1699600004789	OK	 
+REQUEST		Exchange Code	1699600004790	1699600004793	OK	 
+REQUEST		Browser logout	1699600004793	1699600004795	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699600004795
+USER	Authentication - Authorization Code Username/Password	START	1699600005745
+REQUEST		Browser to Log In Endpoint	1699600005746	1699600005757	OK	 
+REQUEST		Browser posts correct credentials	1699600005758	1699600005781	OK	 
+REQUEST		Exchange Code	1699600005781	1699600005784	OK	 
+REQUEST		Browser logout	1699600005785	1699600005786	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699600005787
+USER	Authentication - Authorization Code Username/Password	START	1699600006745
+REQUEST		Browser to Log In Endpoint	1699600006746	1699600006768	OK	 
+REQUEST		Browser posts correct credentials	1699600006769	1699600006787	OK	 
+REQUEST		Exchange Code	1699600006787	1699600006791	OK	 
+REQUEST		Browser logout	1699600006792	1699600006794	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699600006794
+USER	Authentication - Authorization Code Username/Password	START	1699600007745
+REQUEST		Browser to Log In Endpoint	1699600007746	1699600007763	OK	 
+REQUEST		Browser posts correct credentials	1699600007764	1699600007786	OK	 
+REQUEST		Exchange Code	1699600007786	1699600007790	OK	 
+REQUEST		Browser logout	1699600007791	1699600007792	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699600007793
+USER	Authentication - Authorization Code Username/Password	START	1699600008747
+REQUEST		Browser to Log In Endpoint	1699600008748	1699600008756	OK	 
+REQUEST		Browser posts correct credentials	1699600008757	1699600008776	OK	 
+REQUEST		Exchange Code	1699600008776	1699600008779	OK	 
+REQUEST		Browser logout	1699600008780	1699600008781	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699600008782
+USER	Authentication - Authorization Code Username/Password	START	1699600009745
+REQUEST		Browser to Log In Endpoint	1699600009746	1699600009757	OK	 
+REQUEST		Browser posts correct credentials	1699600009758	1699600009781	OK	 
+REQUEST		Exchange Code	1699600009781	1699600009784	OK	 
+REQUEST		Browser logout	1699600009785	1699600009786	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699600009787
+USER	Authentication - Authorization Code Username/Password	START	1699600010745
+REQUEST		Browser to Log In Endpoint	1699600010746	1699600010758	OK	 
+REQUEST		Browser posts correct credentials	1699600010759	1699600010777	OK	 
+REQUEST		Exchange Code	1699600010778	1699600010781	OK	 
+REQUEST		Browser logout	1699600010782	1699600010783	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699600010784
+USER	Authentication - Authorization Code Username/Password	START	1699600011745
+REQUEST		Browser to Log In Endpoint	1699600011746	1699600011767	OK	 
+REQUEST		Browser posts correct credentials	1699600011769	1699600011798	OK	 
+REQUEST		Exchange Code	1699600011799	1699600011802	OK	 
+REQUEST		Browser logout	1699600011802	1699600011804	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699600011804
+USER	Authentication - Authorization Code Username/Password	START	1699600012745
+REQUEST		Browser to Log In Endpoint	1699600012746	1699600012755	OK	 
+REQUEST		Browser posts correct credentials	1699600012756	1699600012775	OK	 
+REQUEST		Exchange Code	1699600012775	1699600012779	OK	 
+REQUEST		Browser logout	1699600012779	1699600012781	OK	 
+USER	Authentication - Authorization Code Username/Password	END	1699600012782
