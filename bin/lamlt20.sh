@@ -1,0 +1,1 @@
+kcb.sh --scenario=keycloak.scenario.authentication.AuthorizationCode --server-url=http://localhost:8080 --realm-name=test-realm --client-id=client-0 --client-secret=client-0-secret --username=user-0 --user-password=user-0-password
